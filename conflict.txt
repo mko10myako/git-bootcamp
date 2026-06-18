@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Developer 2 version
-=======
-dev 1 version 2 correct
->>>>>>> 8891127 ( dev1 verion 2)
+dev1 verion 3 final
